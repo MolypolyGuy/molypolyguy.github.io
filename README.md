@@ -2,6 +2,12 @@
 
 Website domain: molypolyguy.github.io
 
+Wanna lucid dream? Link:
+
+I actually did it!
+
+https://www.youtube.com/watch?v=U06jlgpMtQs
+
 Hint: Molypoly_hAckEr is the hacking mode of Andy!
 
 The DNS is now fully fixed, and this is already connected to my ip: 192.168.0.4
