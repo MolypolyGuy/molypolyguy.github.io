@@ -1,5 +1,7 @@
 # Molypoly_hAckEr's website is not finished yet.
 
+Website domain: molypolyguy.github.io
+
 Hint: Molypoly_hAckEr is the hacking mode of Andy!
 
 The DNS is now fully fixed, and this is already connected to my ip: 192.168.0.4
@@ -18,8 +20,6 @@ https://molypolyguy.github.io/Molypoly_hAckEr/
 https://www.52pojie.cn/thread-1569939-1-1.html
 
 https://bbs.huorong.cn/archiver/?tid-89251.html
-
-https://github.com/MolypolyGuy/MolypolyGuy/
 
 https://virusshare.com
 
