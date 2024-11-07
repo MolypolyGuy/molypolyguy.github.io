@@ -1,23 +1,23 @@
 # Molypoly_hAckEr's website is not finished yet. By Andy
 
-Website domain: molypolyguy.github.io
+# Website domain: molypolyguy.github.io
 
-ANDY IS A HACKER
+# ANDY IS A HACKER
 
-Wanna lucid dream? Link:
+# Wanna lucid dream? Link:
 
-I actually did it!
+# I actually did it!
 
-https://www.youtube.com/watch?v=U06jlgpMtQs
+# https://www.youtube.com/watch?v=U06jlgpMtQs
 
-Hint: Molypoly_hAckEr is the hacking mode of Andy!
+# Hint: Molypoly_hAckEr is the hacking mode of Andy!
 
-The DNS is now fully fixed, and this is already connected to my ip: 192.168.0.4
+# The DNS is now fully fixed, and this is already connected to my ip: 192.168.0.4
 
-Maybe try hack me!
+# Maybe try hack me!
 
-导弹密码:GTX690 Virus sample links (other links/repos would be stored in my github dashboard):
-These links are Chinese Viruses! (Part of them r not)
+# 导弹密码:GTX690 Virus sample links (other links/repos would be stored in my github dashboard):
+# These links are Chinese Viruses! (Part of them r not)
 
 https://bbs.kafan.cn/thread-2271333-1-1.html
 
@@ -83,7 +83,7 @@ Protect Our Only Pe company now hires!
 
 Employee list:
 
-Meimei
+Meimei the python master(of course taught by me!)
 
 Zhazi
 
@@ -98,6 +98,8 @@ Franky
 烤肠
 
 智Har
+
+Elva 
 
 Send me email to be in that list: littlechick314proton.me@proton.me
 
