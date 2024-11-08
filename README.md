@@ -1,119 +1,37 @@
-# Molypoly_hAckEr's website is not finished yet. By Andy
+#Features
 
-# Website domain: molypolyguy.github.io
+- Responsive Layout powered by Bootstrap 3
+- Built with w3 validated HTML5 & CSS3
+- Modern Design
+- Full Screen Header Background
+- Optimized Code & Content
+- Showcase your work more attractively.
+- HiDPI / Retina Ready
+- Clean Code
+- IE 9 support
+- SEO Optimized
+- 100% Fully Customizable
+- Sticky Header
+- Google Fonts
+- Strong focus on Usability and UX
+- FontAwesome Icon Integrated
+- Powered by Google Hosted Library and MaxCDN. 
+- Minified CSS and Js included for Faster loading. 
+- Clean and stylish UI
+- Well commented coding
+- Easy to use
+- It's Free!
 
-# ANDY IS A HACKER
+#Screenshot
 
-# Wanna lucid dream? Link:
-
-# I actually did it!
-
-# https://www.youtube.com/watch?v=U06jlgpMtQs
-
-# Hint: Molypoly_hAckEr is the hacking mode of Andy!
-
-# The DNS is now fully fixed, and this is already connected to my ip: 192.168.0.4
-
-# Maybe try hack me!
-
-# 导弹密码:GTX690 Virus sample links (other links/repos would be stored in my github dashboard):
-# These links are Chinese Viruses! (Part of them r not)
-
-https://bbs.kafan.cn/thread-2271333-1-1.html
-
-https://www.itmop.com/downinfo/140439.html
-
-https://molypolyguy.github.io/Molypoly_hAckEr/
-
-https://www.52pojie.cn/thread-1569939-1-1.html
-
-https://bbs.huorong.cn/archiver/?tid-89251.html
-
-https://virusshare.com
-
-https://fitgirl-repacks.site
-
-https://wwx.lanzoui.com/iIcYHljspmf
-
-https://www.malware-traffic-analysis.net/2020/12/15/index.html
-
-https://beta.virusbay.io/sample/browse
-
-https://bazaar.abuse.ch/browse
-
-https://bbs.kafan.cn/thread-2175967-1-1.html
-
-https://bbs.kafan.cn/thread-627877-1-1.html
-
-https://amdradeonrin.github.io/MIKU/virus!/index.html
-
-https://bbs.kafan.cn/forum-31-1.html
-
-https://bbs.kafan.cn/forum-31-1.html
-
-https://bbs.kafan.cn/thread-627877-1-1.html
-
-https://malshare.com//
-
-https://groups.google.com/access-error?continue=https://groups.google.com/g/mobilemalware
-
-https://mcedge.118pan.com
-
-https://bbs.kafan.cn/thread-2229714-1-1.html
-
-https://screamer.wiki/Windows_XP_Horror_Edition
-
-https://blog.csdn.net/ybdesire/article/details/108882365
-
-https://bbs.kafan.cn/thread-2229714-1-1.html
-
-https://www.bilibili.com/read/cv20087383/
-
-https://dumpling.118pan.com
-
-https://github.com/onx/CIH
-
-https://github.com/popmedd/Threat_Analysis_Report
-
-https://mc163.lanzoue.com/b0edaxo1g
-
-https://www.youtube.com/watch?v=U06jlgpMtQs
-
-Protect Our Only Pe company now hires!
-
-Employee list:
-
-Meimei the python master(of course taught by me!)
-
-Zhazi
-
-Dribble u
-
-Guy Guy
-
-Franky
-
-缴子
-
-烤肠
-
-智Har
-
-Elva 
-
-Send me email to be in that list: littlechick314proton.me@proton.me
-
-CEO of P.O.O.P: Molypoly_hAckEr
+![Screenshot of HTML 5]
+(https://raw.githubusercontent.com/technext/Developer/master/Features/html5.png)
 
 
-G5P 4 人组:
+#Demo Link
+Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/Developer/)
 
-Andy
 
-Hardy
 
-Luke
-
-Allen
 
 
